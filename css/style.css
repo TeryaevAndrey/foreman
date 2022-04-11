@@ -42,6 +42,7 @@ a {
     outline: none;
     border: none;
     transition: all 0.2s ease;
+    color: #000;
 }
 
 .btn:hover {
